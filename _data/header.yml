@@ -1,0 +1,11 @@
+sections:
+    - ref: '#services'
+      name: 'Services'
+    - ref: '#portfolio'
+      name: 'Portfolio'
+    - ref: '#about'
+      name: 'About'
+    - ref: '#team'
+      name: 'Team'
+    - ref: '#contact'
+      name: 'Contact'
