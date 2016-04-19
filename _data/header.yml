@@ -9,3 +9,8 @@ sections:
       name: 'Team'
     - ref: '#contact'
       name: 'Contact'
+
+uppertitle: 'Welcome to our lab!'
+lowertitle: ''
+nextbutton: 'SHOW PROJECTS'
+nextsection: '#services'
