@@ -1,14 +1,10 @@
 sections:
-    - ref: '#services'
-      name: 'Services'
-    - ref: '#portfolio'
-      name: 'Portfolio'
+    - ref: '#projects'
+      name: 'Projects'
     - ref: '#about'
       name: 'About'
-    - ref: '#team'
-      name: 'Team'
-    - ref: '#contact'
-      name: 'Contact'
+    - ref: '#members'
+      name: 'Members'
 
 uppertitle: 'Welcome to our lab!'
 lowertitle: ''
