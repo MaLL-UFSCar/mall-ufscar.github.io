@@ -3,4 +3,5 @@ subtitle: 'Projects in collaboration with MaLL'
 projects:
     -
         title: 'Read the Web'
-
+        description: '#TODO'
+        icon: 'fa-desktop'
