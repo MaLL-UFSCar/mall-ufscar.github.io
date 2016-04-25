@@ -8,7 +8,8 @@
                 </div>
             </div>
             <div class="row">
-                {% for member in site.data.members.people %}
+                {% assign sortedpeople = (site.data.members.people | sortmembers) %}
+                {% for member in sortedpeople %}
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}" class="img-responsive img-circle" alt="">
