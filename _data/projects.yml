@@ -1,7 +1,11 @@
 title: 'PROJECTS'
 subtitle: 'Projects in collaboration with MaLL'
 projects:
-    -
-        title: 'Read the Web'
-        description: '#TODO'
-        icon: 'fa-desktop'
+   -
+      title: 'Read the Web'
+      description: '#TODO'
+      icon: 'fa-desktop'
+   -
+      title: 'Conversing Learning'
+      description: 'Autonomously improve Machine Learning tasks though conversing with humans on social networks'
+      icon: 'fa-comments'
