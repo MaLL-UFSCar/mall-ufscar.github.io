@@ -18,3 +18,17 @@ people:
       social:
          - title: linkedin
            url: 'https://www.linkedin.com/in/saulo-pedro-3331aa50'
+   -
+      name: Alex Fernandes Mansano
+      pic: 'alexmansano.jpg'
+      position: MsC Student
+      social:
+         - title: linkedin
+           url: 'https://br.linkedin.com/in/alex-fernandes-mansano-6b7b799a'
+   -
+      name: Maísa Cristina Duarte
+      pic: 'maisa.jpg'
+      position: Postdoctoral
+      social:
+         - title: linkedin
+           url: 'https://www.linkedin.com/in/maisaduarte'
