@@ -4,7 +4,6 @@ footer: ''
 people:
    -
       name: Diorge Brognara
-      pic: 'diorge.jpg'
       position: Undergraduate
       social:
          - title: github
@@ -13,28 +12,24 @@ people:
            url: 'http://stackoverflow.com/users/3614521/mephy'
    -
       name: Saulo Pedro
-      pic: 'saulopedro.jpg'
       position: PhD Student
       social:
          - title: linkedin
            url: 'https://www.linkedin.com/in/saulo-pedro-3331aa50'
    -
       name: Alex Fernandes Mansano
-      pic: 'alexmansano.jpg'
       position: MsC Student
       social:
          - title: linkedin
            url: 'https://br.linkedin.com/in/alex-fernandes-mansano-6b7b799a'
    -
       name: Maísa Cristina Duarte
-      pic: 'maisa.jpg'
       position: Postdoctoral
       social:
          - title: linkedin
            url: 'https://www.linkedin.com/in/maisaduarte'
    -
       name: Luís Felipe Tomazini
-      pic: 'luisfelipetomazini.jpg'
       position: Undergraduate
       social:
          - title: linkedin
@@ -43,7 +38,6 @@ people:
            url: 'http://github.com/lftomazini'
    -
       name: Lucas Fonseca Navarro
-      pic: 'lucasnavarro.jpg'
       position: PhD Student
       social:
          - title: linkedin
