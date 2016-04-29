@@ -41,3 +41,10 @@ people:
            url: 'https://www.linkedin.com/in/lftomazini'
          - title: github
            url: 'http://github.com/lftomazini'
+   -
+      name: Lucas Fonseca Navarro
+      pic: 'lucasnavarro.jpg'
+      position: PhD Student
+      social:
+         - title: linkedin
+           url: 'https://www.linkedin.com/in/lucas-navarro-a3810a44'
