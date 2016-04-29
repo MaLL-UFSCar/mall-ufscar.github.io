@@ -32,3 +32,12 @@ people:
       social:
          - title: linkedin
            url: 'https://www.linkedin.com/in/maisaduarte'
+   -
+      name: Luís Felipe Tomazini
+      pic: 'luisfelipetomazini.jpg'
+      position: Undergraduate
+      social:
+         - title: linkedin
+           url: 'https://www.linkedin.com/in/lftomazini'
+         - title: github
+           url: 'http://github.com/lftomazini'
