@@ -87,3 +87,9 @@ people:
       social:
          - title: linkedin
            url: 'https://br.linkedin.com/in/paulinhaappel'
+   -
+      name: Reginaldo Gotardo
+      position: Professor
+      social:
+         - title: linkedin
+           url: 'https://www.linkedin.com/in/reginaldogotardo'
