@@ -72,3 +72,9 @@ people:
       social:
          - title: linkedin
            url: 'https://www.linkedin.com/in/caioherrera'
+   -
+      name: Matheus Bachetti Vervloet
+      position: Undergraduate
+      social:
+         - title: github
+           url: 'https://github.com/matheusvervloet'
