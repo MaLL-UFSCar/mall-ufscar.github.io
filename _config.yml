@@ -3,6 +3,7 @@ baseurl: ""
 
 # Site settings
 title: MaLL - Machine Learning Laboratory
+shortname: MaLL
 email: ""
 description: "MaLL is a laboratory for studies in machine learning at the UFSCar (Federal University of São Carlos).
     We are an extension of the Read the Web research project at Carnegie Mellon University (rtw.ml.cmu.edu)"
