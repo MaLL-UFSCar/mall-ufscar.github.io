@@ -60,3 +60,9 @@ people:
       social:
          - title: linkedin
            url: 'https://br.linkedin.com/in/wesley-w-o-souza-4097a821'
+   -
+      name: Rafael Rodrigues Bordin
+      position: Undergraduate
+      social:
+         - title: linkedin
+           url: 'https://www.linkedin.com/in/rbordin'
