@@ -3,28 +3,17 @@ subtitle: 'People who work or contribute on MaLL projects'
 footer: ''
 people:
    -
-      name: Diorge Brognara
-      position: Undergraduate
-      pic: 'DiorgeBrognara.jpg'
-      social:
-         - title: github
-           url: 'http://github.com/diorge'
-         - title: stack-overflow
-           url: 'http://stackoverflow.com/users/3614521/mephy'
-   -
-      name: Saulo Pedro
-      position: PhD Student
-      pic: 'SauloPedro.jpg'
+      name: Nádia Félix Felipe da Silva
+      position: Professor
       social:
          - title: linkedin
-           url: 'https://www.linkedin.com/in/saulo-pedro-3331aa50'
+           url: 'https://br.linkedin.com/in/nadia-felix-44366024'
    -
-      name: Alex Fernandes Mansano
-      position: MsC Student
-      pic: 'AlexFernandesMansano.jpg'
+      name: Reginaldo Gotardo
+      position: Professor
       social:
          - title: linkedin
-           url: 'https://br.linkedin.com/in/alex-fernandes-mansano-6b7b799a'
+           url: 'https://www.linkedin.com/in/reginaldogotardo'
    -
       name: Maísa Cristina Duarte
       position: Postdoctoral
@@ -33,15 +22,6 @@ people:
          - title: linkedin
            url: 'https://www.linkedin.com/in/maisaduarte'
    -
-      name: Luís Felipe Tomazini
-      position: Undergraduate
-      pic: 'LuísFelipeTomazini.jpg'
-      social:
-         - title: linkedin
-           url: 'https://www.linkedin.com/in/lftomazini'
-         - title: github
-           url: 'http://github.com/lftomazini'
-   -
       name: Lucas Fonseca Navarro
       position: PhD Student
       pic: 'LucasFonsecaNavarro.jpg'
@@ -49,19 +29,14 @@ people:
          - title: linkedin
            url: 'https://www.linkedin.com/in/lucas-navarro-a3810a44'
    -
-      name: Nádia Félix Felipe da Silva
-      position: Professor
-      pic: 'NádiaFélixFelipedaSilva.jpg'
-      social:
-         - title: linkedin
-           url: 'https://br.linkedin.com/in/nadia-felix-44366024'
+      name: Rafael Garcia Leonel Miani
+      position: PhD Student
    -
-      name: Pedro Vinícius Gallo Menegasso
-      position: Undergraduate
-      pic: 'PedroViníciusGalloMenegasso.jpg'
+      name: Saulo Pedro
+      position: PhD Student
       social:
          - title: linkedin
-           url: 'https://br.linkedin.com/in/pedro-vinícius-gallo-menegasso-30763aa6'
+           url: 'https://www.linkedin.com/in/saulo-pedro-3331aa50'
    -
       name: Wesley Willy Oliveira de Souza
       position: PhD Student
@@ -70,12 +45,17 @@ people:
          - title: linkedin
            url: 'https://br.linkedin.com/in/wesley-w-o-souza-4097a821'
    -
-      name: Rafael Rodrigues Bordin
-      position: Undergraduate
-      pic: 'RafaelRodriguesBordin.jpg'
+      name: Ana Paula Appel
+      position: Contributor
       social:
          - title: linkedin
-           url: 'https://www.linkedin.com/in/rbordin'
+           url: 'https://br.linkedin.com/in/paulinhaappel'
+   -
+      name: Alex Fernandes Mansano
+      position: MsC Student
+      social:
+         - title: linkedin
+           url: 'https://br.linkedin.com/in/alex-fernandes-mansano-6b7b799a'
    -
       name: Caio Guimarães Herrera
       position: Undergraduate
@@ -84,6 +64,22 @@ people:
          - title: linkedin
            url: 'https://www.linkedin.com/in/caioherrera'
    -
+      name: Diorge Brognara
+      position: Undergraduate
+      social:
+         - title: github
+           url: 'http://github.com/diorge'
+         - title: stack-overflow
+           url: 'http://stackoverflow.com/users/3614521/mephy'
+   -
+      name: Luís Felipe Tomazini
+      position: Undergraduate
+      social:
+         - title: linkedin
+           url: 'https://www.linkedin.com/in/lftomazini'
+         - title: github
+           url: 'http://github.com/lftomazini'
+   -
       name: Matheus Bachetti Vervloet
       position: Undergraduate
       pic: 'MatheusBachettiVervloet.jpg'
@@ -91,20 +87,14 @@ people:
          - title: github
            url: 'https://github.com/matheusvervloet'
    -
-      name: Rafael Garcia Leonel Miani
-      position: PhD Student
-      pic: 'RafaelGarciaLeonelMiani.jpg'
-   -
-      name: Ana Paula Appel
-      position: Contributor
-      pic: 'AnaPaulaAppel.jpg'
+      name: Pedro Vinícius Gallo Menegasso
+      position: Undergraduate
       social:
          - title: linkedin
-           url: 'https://br.linkedin.com/in/paulinhaappel'
+           url: 'https://br.linkedin.com/in/pedro-vinícius-gallo-menegasso-30763aa6'
    -
-      name: Reginaldo Gotardo
-      position: Professor
-      pic: 'ReginaldoGotardo.jpg'
+      name: Rafael Rodrigues Bordin
+      position: Undergraduate
       social:
          - title: linkedin
-           url: 'https://www.linkedin.com/in/reginaldogotardo'
+           url: 'https://www.linkedin.com/in/rbordin'
