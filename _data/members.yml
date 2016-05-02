@@ -66,3 +66,9 @@ people:
       social:
          - title: linkedin
            url: 'https://www.linkedin.com/in/rbordin'
+   -
+      name: Caio Guimarães Herrera
+      position: Undergraduate
+      social:
+         - title: linkedin
+           url: 'https://www.linkedin.com/in/caioherrera'
