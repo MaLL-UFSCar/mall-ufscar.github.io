@@ -13,3 +13,7 @@ projects:
       title: 'Read the Web in Portuguese'
       description: 'NELL attempts to learn forever by reading the web in English. Read The Web in Portuguese is a new instance of NELL that attempts to learn Portuguese Language'
       icon: 'fa-binoculars'
+   -
+      title: 'Empatie'
+      description: 'Educational system based on the never-ending learning'
+      icon: 'fa-puzzle-piece'
