@@ -42,3 +42,54 @@ people:
       social:
          - title: linkedin
            url: 'https://www.linkedin.com/in/lucas-navarro-a3810a44'
+   -
+      name: Nádia Félix Felipe da Silva
+      position: Professor
+      social:
+         - title: linkedin
+           url: 'https://br.linkedin.com/in/nadia-felix-44366024'
+   -
+      name: Pedro Vinícius Gallo Menegasso
+      position: Undergraduate
+      social:
+         - title: linkedin
+           url: 'https://br.linkedin.com/in/pedro-vinícius-gallo-menegasso-30763aa6'
+   -
+      name: Wesley Willy Oliveira de Souza
+      position: PhD Student
+      social:
+         - title: linkedin
+           url: 'https://br.linkedin.com/in/wesley-w-o-souza-4097a821'
+   -
+      name: Rafael Rodrigues Bordin
+      position: Undergraduate
+      social:
+         - title: linkedin
+           url: 'https://www.linkedin.com/in/rbordin'
+   -
+      name: Caio Guimarães Herrera
+      position: Undergraduate
+      social:
+         - title: linkedin
+           url: 'https://www.linkedin.com/in/caioherrera'
+   -
+      name: Matheus Bachetti Vervloet
+      position: Undergraduate
+      social:
+         - title: github
+           url: 'https://github.com/matheusvervloet'
+   -
+      name: Rafael Garcia Leonel Miani
+      position: PhD Student
+   -
+      name: Ana Paula Appel
+      position: Contributor
+      social:
+         - title: linkedin
+           url: 'https://br.linkedin.com/in/paulinhaappel'
+   -
+      name: Reginaldo Gotardo
+      position: Professor
+      social:
+         - title: linkedin
+           url: 'https://www.linkedin.com/in/reginaldogotardo'
