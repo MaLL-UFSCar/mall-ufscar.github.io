@@ -17,14 +17,12 @@ people:
    -
       name: Maísa Cristina Duarte
       position: Postdoctoral
-      pic: 'MaísaCristinaDuarte.jpg'
       social:
          - title: linkedin
            url: 'https://www.linkedin.com/in/maisaduarte'
    -
       name: Lucas Fonseca Navarro
       position: PhD Student
-      pic: 'LucasFonsecaNavarro.jpg'
       social:
          - title: linkedin
            url: 'https://www.linkedin.com/in/lucas-navarro-a3810a44'
@@ -40,7 +38,6 @@ people:
    -
       name: Wesley Willy Oliveira de Souza
       position: PhD Student
-      pic: 'WesleyWillyOliveiradeSouza.jpg'
       social:
          - title: linkedin
            url: 'https://br.linkedin.com/in/wesley-w-o-souza-4097a821'
@@ -59,7 +56,6 @@ people:
    -
       name: Caio Guimarães Herrera
       position: Undergraduate
-      pic: 'CaioGuimarãesHerrera.jpg'
       social:
          - title: linkedin
            url: 'https://www.linkedin.com/in/caioherrera'
@@ -82,7 +78,6 @@ people:
    -
       name: Matheus Bachetti Vervloet
       position: Undergraduate
-      pic: 'MatheusBachettiVervloet.jpg'
       social:
          - title: github
            url: 'https://github.com/matheusvervloet'
