@@ -17,14 +17,12 @@ people:
    -
       name: Maísa Cristina Duarte
       position: Postdoctoral
-      pic: 'MaísaCristinaDuarte.jpg'
       social:
          - title: linkedin
            url: 'https://www.linkedin.com/in/maisaduarte'
    -
       name: Lucas Fonseca Navarro
       position: PhD Student
-      pic: 'LucasFonsecaNavarro.jpg'
       social:
          - title: linkedin
            url: 'https://www.linkedin.com/in/lucas-navarro-a3810a44'
@@ -40,7 +38,6 @@ people:
    -
       name: Wesley Willy Oliveira de Souza
       position: PhD Student
-      pic: 'WesleyWillyOliveiradeSouza.jpg'
       social:
          - title: linkedin
            url: 'https://br.linkedin.com/in/wesley-w-o-souza-4097a821'
@@ -59,7 +56,6 @@ people:
    -
       name: Caio Guimarães Herrera
       position: Undergraduate
-      pic: 'CaioGuimarãesHerrera.jpg'
       social:
          - title: linkedin
            url: 'https://www.linkedin.com/in/caioherrera'
@@ -72,6 +68,14 @@ people:
          - title: stack-overflow
            url: 'http://stackoverflow.com/users/3614521/mephy'
    -
+      name: Henrique Galo
+      position: Undergraduate
+      social:
+         - title: linkedin
+           url: 'http://br.linkedin.com/in/henriquegalo'
+         - title: github
+           url: 'https://github.com/henriqueG'
+   -
       name: Luís Felipe Tomazini
       position: Undergraduate
       social:
@@ -82,7 +86,6 @@ people:
    -
       name: Matheus Bachetti Vervloet
       position: Undergraduate
-      pic: 'MatheusBachettiVervloet.jpg'
       social:
          - title: github
            url: 'https://github.com/matheusvervloet'
