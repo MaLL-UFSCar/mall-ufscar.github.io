@@ -68,6 +68,14 @@ people:
          - title: stack-overflow
            url: 'http://stackoverflow.com/users/3614521/mephy'
    -
+      name: Henrique Galo
+      position: Undergraduate
+      social:
+         - title: linkedin
+           url: 'http://br.linkedin.com/in/henriquegalo'
+         - title: github
+           url: 'https://github.com/henriqueG'
+   -
       name: Luís Felipe Tomazini
       position: Undergraduate
       social:
