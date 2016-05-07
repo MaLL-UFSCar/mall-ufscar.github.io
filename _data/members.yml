@@ -48,6 +48,12 @@ people:
          - title: linkedin
            url: 'https://br.linkedin.com/in/paulinhaappel'
    -
+      name: Laurence Rodrigues do Amaral
+      position: Contributor
+      social:
+         - title: linkedin
+           url: 'https://br.linkedin.com/in/laurence-amaral-5094a120'
+   -
       name: Alex Fernandes Mansano
       position: MsC Student
       social:
