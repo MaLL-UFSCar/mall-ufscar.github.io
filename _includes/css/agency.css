@@ -649,6 +649,49 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
+.partner-academia {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.partner-academia img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+}
+
+.partner-academia h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.partner-academia p {
+    margin-top: 0;
+}
+
+.partner-industry {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.partner-industry img {
+    margin: 0 auto;
+    border: 7px solid #fff;
+}
+
+.partner-industry h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+}
+
+.partner-industry p {
+    margin-top: 0;
+}
+
+
+
+
 aside.clients img {
     margin: 50px auto;
 }
