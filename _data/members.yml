@@ -60,19 +60,21 @@ people:
          - title: linkedin
            url: 'https://br.linkedin.com/in/alex-fernandes-mansano-6b7b799a'
    -
-      name: Caio Guimarães Herrera
-      position: Undergraduate
-      social:
-         - title: linkedin
-           url: 'https://www.linkedin.com/in/caioherrera'
-   -
       name: Diorge Brognara
-      position: Undergraduate
+      position: MsC Student
       social:
          - title: github
            url: 'http://github.com/diorge'
          - title: stack-overflow
            url: 'http://stackoverflow.com/users/3614521/mephy'
+         - title: linkedin
+           url: 'https://www.linkedin.com/in/diorge-brognara-725996120/'
+   -
+      name: Caio Guimarães Herrera
+      position: Undergraduate
+      social:
+         - title: linkedin
+           url: 'https://www.linkedin.com/in/caioherrera'
    -
       name: Henrique Galo
       position: Undergraduate
