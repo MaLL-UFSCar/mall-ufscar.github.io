@@ -1,6 +1,8 @@
 title: 'MaLL partners'
 subtitle: 'Other institutions working with us'
 footer: ''
+academiatitle: 'Partners in academia'
+industrytitle: 'Partners in industry'
 academia:
    -
       name: Carnegie Mellon University
