@@ -2,116 +2,43 @@ title: 'MaLL partners'
 subtitle: 'Other institutions working with us'
 footer: ''
 academia:
-   - Carnegie Mellon University
-   - Federal University of Rio de Janeiro
+   -
+      name: Carnegie Mellon University
+      url: 'http://www.cmu.edu'
+   -
+      name: Federal University of Goiás
+      url: 'http://www.ufg.br/'
+   -
+      name: Federal University of Rio de Janeiro
+      url: 'https://ufrj.br'
+   -
+      name: Jean Monnet University
+      url: 'https://www.univ-st-etienne.fr/fr/index.html'
+   -
+      name: Jožef Stefan Institute
+      url: 'https://www.ijs.si/ijsw/JSI'
+   -
+      name: Tsinghua University
+      url: 'http://www.tsinghua.edu.cn/publish/newthuen/'
+   -
+      name: University of Porto
+      url: 'https://sigarra.up.pt/up/pt/web_page.inicial'
 industry:
-   - Siena Idea
-
-people:
    -
-      name: Nádia Félix Felipe da Silva
-      position: Professor
-      social:
-         - title: linkedin
-           url: 'https://br.linkedin.com/in/nadia-felix-44366024'
+      name: Amazon
+      url: 'https://www.amazon.com'
    -
-      name: Reginaldo Gotardo
-      position: Professor
-      social:
-         - title: linkedin
-           url: 'https://www.linkedin.com/in/reginaldogotardo'
+      name: Bradesco
+      url: 'https://banco.bradesco/html/classic/index.shtm'
    -
-      name: Maísa Cristina Duarte
-      position: Postdoctoral
-      social:
-         - title: linkedin
-           url: 'https://www.linkedin.com/in/maisaduarte'
+      name: Delphi
+      url: ''
    -
-      name: Lucas Fonseca Navarro
-      position: PhD Student
-      social:
-         - title: linkedin
-           url: 'https://www.linkedin.com/in/lucas-navarro-a3810a44'
+      name: EducaCross
+      url: 'https://www.educacross.com.br/'
    -
-      name: Rafael Garcia Leonel Miani
-      position: PhD Student
+      name: Siena Idea
+      url: 'http://www.sienaidea.com.br'
    -
-      name: Saulo Pedro
-      position: PhD Student
-      social:
-         - title: linkedin
-           url: 'https://www.linkedin.com/in/saulo-pedro-3331aa50'
-   -
-      name: Wesley Willy Oliveira de Souza
-      position: PhD Student
-      social:
-         - title: linkedin
-           url: 'https://br.linkedin.com/in/wesley-w-o-souza-4097a821'
-   -
-      name: Ana Paula Appel
-      position: Contributor
-      social:
-         - title: linkedin
-           url: 'https://br.linkedin.com/in/paulinhaappel'
-   -
-      name: Laurence Rodrigues do Amaral
-      position: Contributor
-      social:
-         - title: linkedin
-           url: 'https://br.linkedin.com/in/laurence-amaral-5094a120'
-   -
-      name: Alex Fernandes Mansano
-      position: MsC Student
-      social:
-         - title: linkedin
-           url: 'https://br.linkedin.com/in/alex-fernandes-mansano-6b7b799a'
-   -
-      name: Diorge Brognara
-      position: MsC Student
-      social:
-         - title: github
-           url: 'http://github.com/diorge'
-         - title: stack-overflow
-           url: 'http://stackoverflow.com/users/3614521/mephy'
-         - title: linkedin
-           url: 'https://www.linkedin.com/in/diorge-brognara-725996120/'
-   -
-      name: Caio Guimarães Herrera
-      position: Undergraduate
-      social:
-         - title: linkedin
-           url: 'https://www.linkedin.com/in/caioherrera'
-   -
-      name: Henrique Galo
-      position: Undergraduate
-      social:
-         - title: linkedin
-           url: 'http://br.linkedin.com/in/henriquegalo'
-         - title: github
-           url: 'https://github.com/henriqueG'
-   -
-      name: Luís Felipe Tomazini
-      position: Undergraduate
-      social:
-         - title: linkedin
-           url: 'https://www.linkedin.com/in/lftomazini'
-         - title: github
-           url: 'http://github.com/lftomazini'
-   -
-      name: Matheus Bachetti Vervloet
-      position: Undergraduate
-      social:
-         - title: github
-           url: 'https://github.com/matheusvervloet'
-   -
-      name: Pedro Vinícius Gallo Menegasso
-      position: Undergraduate
-      social:
-         - title: linkedin
-           url: 'https://br.linkedin.com/in/pedro-vinícius-gallo-menegasso-30763aa6'
-   -
-      name: Rafael Rodrigues Bordin
-      position: Undergraduate
-      social:
-         - title: linkedin
-           url: 'https://www.linkedin.com/in/rbordin'
+      name: Volvo Cars
+      url: 'http://www.volvocars.com/'
