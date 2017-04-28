@@ -9,5 +9,5 @@ sections:
 uppertitle: 'Welcome to our lab!'
 lowertitle: ''
 nextbutton: 'SHOW PROJECTS'
-nextsection: '#services'
+nextsection: '#projects'
 background: 'mall-big.jpg'
