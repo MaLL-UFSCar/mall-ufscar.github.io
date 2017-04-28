@@ -1,0 +1,46 @@
+title: 'MaLL partners'
+subtitle: 'Other institutions working with us'
+footer: ''
+academiatitle: 'Partners in academia'
+industrytitle: 'Partners in industry'
+academia:
+   -
+      name: Carnegie Mellon University
+      url: 'http://www.cmu.edu'
+   -
+      name: Federal University of Goiás
+      url: 'http://www.ufg.br/'
+   -
+      name: Federal University of Rio de Janeiro
+      url: 'https://ufrj.br'
+   -
+      name: Jean Monnet University
+      url: 'https://www.univ-st-etienne.fr/fr/index.html'
+   -
+      name: Jožef Stefan Institute
+      url: 'https://www.ijs.si/ijsw/JSI'
+   -
+      name: Tsinghua University
+      url: 'http://www.tsinghua.edu.cn/publish/newthuen/'
+   -
+      name: University of Porto
+      url: 'https://sigarra.up.pt/up/pt/web_page.inicial'
+industry:
+   -
+      name: Amazon
+      url: 'https://www.amazon.com'
+   -
+      name: Bradesco
+      url: 'https://banco.bradesco/html/classic/index.shtm'
+   -
+      name: Delphi
+      url: ''
+   -
+      name: EducaCross
+      url: 'https://www.educacross.com.br/'
+   -
+      name: Siena Idea
+      url: 'http://www.sienaidea.com.br'
+   -
+      name: Volvo Cars
+      url: 'http://www.volvocars.com/'
