@@ -652,11 +652,14 @@ section h3.section-subheading {
 .partner-academia {
     margin-bottom: 50px;
     text-align: center;
+    height: 250px;
 }
 
 .partner-academia img {
     margin: 0 auto;
     border: 7px solid #fff;
+    height: 225px;
+    width: 225px;
 }
 
 .partner-academia h4 {
@@ -672,11 +675,14 @@ section h3.section-subheading {
 .partner-industry {
     margin-bottom: 50px;
     text-align: center;
+    height: 250px;
 }
 
 .partner-industry img {
     margin: 0 auto;
     border: 7px solid #fff;
+    height: 225px;
+    width: 225px;
 }
 
 .partner-industry h4 {
