@@ -5,6 +5,8 @@ sections:
       name: 'About'
     - ref: '#members'
       name: 'Members'
+    - ref: '#partners'
+      name: 'Partners'
 
 uppertitle: 'Welcome to our lab!'
 lowertitle: ''
